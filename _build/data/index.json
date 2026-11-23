@@ -1,0 +1,650 @@
+[
+ {
+  "path": "/",
+  "finalPath": "/",
+  "status": 200,
+  "kind": "index",
+  "title": "Best Hair Extensions NYC | Luxe Aura Hair Salon New York",
+  "sections": 7,
+  "items": 21
+ },
+ {
+  "path": "/hair",
+  "finalPath": "/hair-extention",
+  "status": 200,
+  "kind": "page",
+  "title": "Professional Hair Extensions NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/service",
+  "finalPath": "/balayage-highlights-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Balayage Highlights NYC | Sun-Kissed, Natural Color",
+  "sections": 1,
+  "items": 8
+ },
+ {
+  "path": "/shop-1",
+  "finalPath": "/shop-1",
+  "status": 200,
+  "kind": "page",
+  "title": "Shop Hair Extensions From Tape In to Hand Tied Weft Bundles",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/naturalbeadedrowsextensions",
+  "finalPath": "/invisible-beaded-row-extensions-nyc/",
+  "status": 200,
+  "kind": "page",
+  "title": "Natural Beaded Rows (NBR) Extensions NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 3
+ },
+ {
+  "path": "/tape-hair",
+  "finalPath": "/tape-in-hair-extensions-nyc/",
+  "status": 200,
+  "kind": "page",
+  "title": "Tape-In Hair Extensions NYC for Natural Volume and Length",
+  "sections": 1,
+  "items": 4
+ },
+ {
+  "path": "/hair-replacement-for-men",
+  "finalPath": "/hair-replacement-for-men-nyc/",
+  "status": 200,
+  "kind": "page",
+  "title": "Non Surgical Hair Replacement in Manhattan, NY - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 6
+ },
+ {
+  "path": "/hair-extensions-after-chemo",
+  "finalPath": "/hair-extensions-after-chemo-nyc/",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Extensions After Chemotherapy NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/lacefront",
+  "finalPath": "/lace-front-wigs-closures/",
+  "status": 200,
+  "kind": "page",
+  "title": "Best Lace Front Wigs in NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 6
+ },
+ {
+  "path": "/search",
+  "finalPath": "/search",
+  "status": 200,
+  "kind": "page",
+  "title": "Luxe Aura Hair Extensions Salon /Post Chemo Hair Extensions NYC / Hair Extensions for Thin Hair",
+  "sections": 1,
+  "items": 0
+ },
+ {
+  "path": "/blog",
+  "finalPath": "/blog",
+  "status": 200,
+  "kind": "blog",
+  "title": "Hair Extensions Blog | Tips, Trends & Expert Advice - Luxe Aura Hair Extensions",
+  "sections": 0,
+  "items": 0
+ },
+ {
+  "path": "/blog/when-to-get-hair-extensions-after-chemo",
+  "finalPath": "/blog/when-to-get-hair-extensions-after-chemo",
+  "status": 200,
+  "kind": "post",
+  "title": "When Can You Get Hair Extensions After Chemo? - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/best-hair-extensions-for-thin-hair",
+  "finalPath": "/blog/best-hair-extensions-for-thin-hair",
+  "status": 200,
+  "kind": "post",
+  "title": "Best Hair Extensions for Thin Hair - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/how-much-do-hair-extensions-cost",
+  "finalPath": "/blog/how-much-do-hair-extensions-cost",
+  "status": 200,
+  "kind": "post",
+  "title": "Hair Extensions Cost: Prices by Method - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/slavic-hair-and-why-does-it-matter",
+  "finalPath": "/blog/slavic-hair-and-why-does-it-matter",
+  "status": 200,
+  "kind": "post",
+  "title": "What Is Slavic Hair? Benefits & Quality Guide - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/extensions-for-curly-and-textured-hair",
+  "finalPath": "/blog/extensions-for-curly-and-textured-hair",
+  "status": 200,
+  "kind": "post",
+  "title": "Extensions for Curly and Textured Hair - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/what-wearing-a-hair-system-feels-like",
+  "finalPath": "/blog/what-wearing-a-hair-system-feels-like",
+  "status": 200,
+  "kind": "post",
+  "title": "Non-Surgical Hair Replacement for Men - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/microlink-vs-tape-in-vs-k-tip-extensions",
+  "finalPath": "/blog/microlink-vs-tape-in-vs-k-tip-extensions",
+  "status": 200,
+  "kind": "post",
+  "title": "Microlink vs. Tape-In vs. K-Tip Extensions: Which Is Best? - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/traction-alopecia-from-tight-hairstyles",
+  "finalPath": "/blog/traction-alopecia-from-tight-hairstyles",
+  "status": 200,
+  "kind": "post",
+  "title": "Traction Alopecia From Tight Hairstyles: What Helps? - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/hair-extensions-for-medical-hair-loss",
+  "finalPath": "/blog/hair-extensions-for-medical-hair-loss",
+  "status": 200,
+  "kind": "post",
+  "title": "Extensions for Medical Hair Loss: Options & Care - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/hair-extensions-for-alopecia-options",
+  "finalPath": "/blog/hair-extensions-for-alopecia-options",
+  "status": 200,
+  "kind": "post",
+  "title": "Hair Extensions for Alopecia: Safe Options & Advice - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/hair-extensions-after-chemotherapy-faqs",
+  "finalPath": "/blog/hair-extensions-after-chemotherapy-faqs",
+  "status": 200,
+  "kind": "post",
+  "title": "Hair Extensions After Chemotherapy: FAQs & Tips - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/what-to-know-about-post-chemo-hair-extensions",
+  "finalPath": "/blog/what-to-know-about-post-chemo-hair-extensions",
+  "status": 200,
+  "kind": "post",
+  "title": "Post-Chemo Hair Extensions: When Is Hair Ready? - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/hair-extensions-for-hair-loss-guide",
+  "finalPath": "/blog/hair-extensions-for-hair-loss-guide",
+  "status": 200,
+  "kind": "post",
+  "title": "Best Hair Extensions for Hair Loss Guide - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/hair-extensions-for-thinning-hair-guide",
+  "finalPath": "/blog/hair-extensions-for-thinning-hair-guide",
+  "status": 200,
+  "kind": "post",
+  "title": "Hair Extensions for Thinning Hair: Your Options - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/hair-extensions-for-short-hair-guide",
+  "finalPath": "/blog/hair-extensions-for-short-hair-guide",
+  "status": 200,
+  "kind": "post",
+  "title": "Hair Extensions for Short Hair: Methods That Work - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/can-tape-in-hair-extensions-ruin-your-hair",
+  "finalPath": "/blog/can-tape-in-hair-extensions-ruin-your-hair",
+  "status": 200,
+  "kind": "post",
+  "title": "Can Tape-In Hair Extensions Damage Your Hair? Tips - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/are-tape-in-hair-extensions-bad-for-your-hair",
+  "finalPath": "/blog/are-tape-in-hair-extensions-bad-for-your-hair",
+  "status": 200,
+  "kind": "post",
+  "title": "Are Tape-In Hair Extensions Bad for Your Hair? Tips - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/how-long-do-hair-extensions-last",
+  "finalPath": "/blog/how-long-do-hair-extensions-last",
+  "status": 200,
+  "kind": "post",
+  "title": "How Long Do Hair Extensions Last? A Complete Guide - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/hair-extensions-vs-wigs-guide",
+  "finalPath": "/blog/hair-extensions-vs-wigs-guide",
+  "status": 200,
+  "kind": "post",
+  "title": "Hair Extensions vs. Wigs: Which Option Is Right for You? - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/best-hair-extensions-in-nyc-guide",
+  "finalPath": "/blog/best-hair-extensions-in-nyc-guide",
+  "status": 200,
+  "kind": "post",
+  "title": "Best Hair Extensions in NYC: Types, Quality & Methods - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/blog/how-to-make-hair-extensions-last-longer",
+  "finalPath": "/blog/how-to-make-hair-extensions-last-longer",
+  "status": 200,
+  "kind": "post",
+  "title": "6 Best Practices to Make Your Hair Extensions Last Longer - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 2
+ },
+ {
+  "path": "/hair-extensions-salon-nyc",
+  "finalPath": "/hair-extensions-salon-nyc",
+  "status": 200,
+  "kind": "index",
+  "title": "Best Hair Extensions NYC | Luxe Aura Hair Salon New York",
+  "sections": 7,
+  "items": 21
+ },
+ {
+  "path": "/new-gallery",
+  "finalPath": "/new-gallery",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Extension Results Gallery | Luxe Aura Hair NYC",
+  "sections": 1,
+  "items": 1
+ },
+ {
+  "path": "/location",
+  "finalPath": "/location",
+  "status": 200,
+  "kind": "page",
+  "title": "Find Us | Luxe Aura Hair Extension Salon Location NYC",
+  "sections": 1,
+  "items": 6
+ },
+ {
+  "path": "/hair-extensions-after-chemo-nyc",
+  "finalPath": "/hair-extensions-after-chemo-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Extensions After Chemotherapy NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/k-tip-hair-extensions-nyc",
+  "finalPath": "/k-tip-hair-extensions-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "K-Tip Hair Extensions NYC | Keratin Bond Extensions",
+  "sections": 1,
+  "items": 4
+ },
+ {
+  "path": "/tape-in-hair-extensions-nyc",
+  "finalPath": "/tape-in-hair-extensions-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Tape-In Hair Extensions NYC for Natural Volume and Length",
+  "sections": 1,
+  "items": 4
+ },
+ {
+  "path": "/invisible-beaded-row-extensions-nyc",
+  "finalPath": "/invisible-beaded-row-extensions-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Natural Beaded Rows (NBR) Extensions NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 3
+ },
+ {
+  "path": "/hair-replacement-for-men-nyc",
+  "finalPath": "/hair-replacement-for-men-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Non Surgical Hair Replacement in Manhattan, NY - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 6
+ },
+ {
+  "path": "/lace-front-wigs-closures",
+  "finalPath": "/lace-front-wigs-closures",
+  "status": 200,
+  "kind": "page",
+  "title": "Best Lace Front Wigs in NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 6
+ },
+ {
+  "path": "/microlink",
+  "finalPath": "/microlink",
+  "status": 200,
+  "kind": "page",
+  "title": "Best Microlink Extensions Nyc | Hair Extensions for Short Hair",
+  "sections": 1,
+  "items": 3
+ },
+ {
+  "path": "/book-now",
+  "finalPath": "/book-now",
+  "status": 200,
+  "kind": "page",
+  "title": "Book Your Hair Extension Consultation NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/contact",
+  "finalPath": "/contact",
+  "status": 200,
+  "kind": "page",
+  "title": "Contact Luxe Aura Hair Extensions Salon in NYC",
+  "sections": 1,
+  "items": 1
+ },
+ {
+  "path": "/luxeaurablog",
+  "finalPath": "/luxeaurablog",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Extensions Blog NYC With Tips From Our Salon Experts",
+  "sections": 1,
+  "items": 1
+ },
+ {
+  "path": "/brazilian-blowout-salon-nyc",
+  "finalPath": "/brazilian-blowout-salon-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Brazilian Blowout Salon NYC | Smooth, Frizz-Free Hair | Luxe Aura Hair",
+  "sections": 1,
+  "items": 8
+ },
+ {
+  "path": "/salon-for-half-head-highlights-nyc",
+  "finalPath": "/salon-for-half-head-highlights-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Half Head Highlights Salon NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 8
+ },
+ {
+  "path": "/single-process-color-salon-nyc",
+  "finalPath": "/single-process-color-salon-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Single Process Color Salon NYC | All-Over Hair Color - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 9
+ },
+ {
+  "path": "/salon-for-toner-nyc",
+  "finalPath": "/salon-for-toner-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Salon for Toner NYC to Neutralize Brassy Tones and Add Shine",
+  "sections": 1,
+  "items": 9
+ },
+ {
+  "path": "/olaplex-treatment-salon-nyc",
+  "finalPath": "/olaplex-treatment-salon-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Olaplex Treatment Salon NYC | Bond Repair for Hair",
+  "sections": 1,
+  "items": 8
+ },
+ {
+  "path": "/full-head-color-salon-nyc",
+  "finalPath": "/full-head-color-salon-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Full Head Color Salon NYC | Rich, Even Results - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 9
+ },
+ {
+  "path": "/grey-coverage-salon-nyc",
+  "finalPath": "/grey-coverage-salon-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Grey Coverage Hair Salon NYC | Seamless Gray Coverage",
+  "sections": 1,
+  "items": 8
+ },
+ {
+  "path": "/salon-for-full-highlights-nyc",
+  "finalPath": "/salon-for-full-highlights-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Full Highlights Salon NYC | Luminous, Dimensional Color",
+  "sections": 1,
+  "items": 9
+ },
+ {
+  "path": "/keratin-treatment-salon-nyc",
+  "finalPath": "/keratin-treatment-salon-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Keratin Treatment Salon NYC | Smooth & Frizz-Free Hair",
+  "sections": 1,
+  "items": 9
+ },
+ {
+  "path": "/salon-for-relaxers-nyc",
+  "finalPath": "/salon-for-relaxers-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Relaxer Salon NYC | Straight, Smooth Results - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 9
+ },
+ {
+  "path": "/salon-for-highlights-nyc",
+  "finalPath": "/salon-for-highlights-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Highlights Salon NYC | Custom Color & Dimension - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 8
+ },
+ {
+  "path": "/balayage-highlights-nyc",
+  "finalPath": "/balayage-highlights-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Balayage Highlights NYC | Sun-Kissed, Natural Color",
+  "sections": 1,
+  "items": 8
+ },
+ {
+  "path": "/salon-for-partial-highlights-nyc",
+  "finalPath": "/salon-for-partial-highlights-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Partial Highlights Salon NYC | Effortless Dimension - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 8
+ },
+ {
+  "path": "/hair-extensions-for-thin-hair",
+  "finalPath": "/hair-extensions-for-thin-hair",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Extensions for Thin Hair NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/hair-extensions-for-short-hair",
+  "finalPath": "/hair-extensions-for-short-hair",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Extensions for Short Hair NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/best-hair-extensions-for-black-women",
+  "finalPath": "/best-hair-extensions-for-black-women",
+  "status": 200,
+  "kind": "page",
+  "title": "Best Hair Extensions for Black Women NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/hair-extensions-for-transgender",
+  "finalPath": "/hair-extensions-for-transgender",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Extensions for Transgender Women NYC | Affirming Care",
+  "sections": 1,
+  "items": 6
+ },
+ {
+  "path": "/brazilian-knots-extensions-nyc",
+  "finalPath": "/brazilian-knots-extensions-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Brazilian Knots Extensions NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 4
+ },
+ {
+  "path": "/microlink-extensions-nyc",
+  "finalPath": "/microlink-extensions-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Micro-Link Extensions NYC | Beaded, No-Damage Extensions",
+  "sections": 1,
+  "items": 3
+ },
+ {
+  "path": "/slavic-hair-extensions-nyc",
+  "finalPath": "/slavic-hair-extensions-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Slavic Hair Extensions NYC for a Natural Flawless Look",
+  "sections": 1,
+  "items": 8
+ },
+ {
+  "path": "/hair-extension-nyc",
+  "finalPath": "/hair-extension-nyc",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Extensions Salon NYC | Premium Extensions | Luxe Aura Hair",
+  "sections": 1,
+  "items": 6
+ },
+ {
+  "path": "/about-us",
+  "finalPath": "/about-us",
+  "status": 200,
+  "kind": "page",
+  "title": "About Luxe Aura Hair Extensions Salon in Greenwich Village NYC",
+  "sections": 1,
+  "items": 8
+ },
+ {
+  "path": "/hair-extention",
+  "finalPath": "/hair-extention",
+  "status": 200,
+  "kind": "page",
+  "title": "Professional Hair Extensions NYC - Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/hair-extensions-for-damaged-hair",
+  "finalPath": "/hair-extensions-for-damaged-hair",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Extensions for Damaged Hair NYC | Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/hair-extensions-for-curly-hair",
+  "finalPath": "/hair-extensions-for-curly-hair",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Extensions for Curly Hair NYC | Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/hair-extensions-for-alopecia",
+  "finalPath": "/hair-extensions-for-alopecia",
+  "status": 200,
+  "kind": "page",
+  "title": "Hair Extensions for Alopecia NYC | Luxe Aura Hair Extensions",
+  "sections": 1,
+  "items": 5
+ },
+ {
+  "path": "/new-page-4",
+  "finalPath": "/new-page-4",
+  "status": 200,
+  "kind": "page",
+  "title": "New Page",
+  "sections": 1,
+  "items": 0
+ }
+]

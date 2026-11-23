@@ -1,0 +1,144 @@
+{
+ "path": "/shop-1",
+ "finalPath": "/shop-1",
+ "status": 200,
+ "title": "Shop Hair Extensions From Tape In to Hand Tied Weft Bundles",
+ "description": "Want longer, fuller hair? Luxe Aura Hair lets you Shop Hair Extensions in tape in, weft, keratin tip, and I tip styles in over 100 colors.",
+ "ogImage": "",
+ "canonical": "https://luxeaurahair.com/shop-1",
+ "jsonld": [
+  "{\"url\":\"https://luxeaurahair.com\",\"name\":\"Luxe Aura Hair Extensions Salon /Post Chemo Hair Extensions NYC / Hair Extensions for Thin Hair\",\"description\":\"\\u003cp>A Young Trendy Fabulous Experience\\u003c/p>\",\"image\":\"//images.squarespace-cdn.com/content/v1/5b36e7e0c3c16a47b4a61889/bd1d206b-ade1-495c-a38e-0807d2bde438/luxeaurahair_logo.webp\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Luxe Aura Hair Extensions\",\"address\":\"52 East 11th Street\\nNew York, NY, 10003\\nUnited States\",\"email\":\"help@luxeaurahair.com\",\"telephone\":\"212.221.3881\",\"sameAs\":[\"https://www.instagram.com/luxeaurahair/\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"52 East 11th Street\\nNew York, NY, 10003\\nUnited States\",\"image\":\"https://static1.squarespace.com/static/5b36e7e0c3c16a47b4a61889/t/6aeac3f3291e450b6c643974/1794596429404/\",\"name\":\"Luxe Aura Hair Extensions\",\"openingHours\":\", Tu 10:30-19:00, We 10:30-19:00, Th 10:30-19:00, Fr 10:30-19:00, Sa 10:30-20:00, \",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"Organization\",\n      \"@id\": \"https://luxeaurahair.com/#organization\",\n      \"name\": \"Luxe Aura Hair Extensions\",\n      \"alternateName\": \"Luxe Aura Hair\",\n      \"url\": \"https://luxeaurahair.com/\",\n      \"logo\": {\n        \"@type\": \"ImageObject\",\n        \"@id\": \"https://luxeaurahair.com/#logo\",\n        \"url\": \"https://images.squarespace-cdn.com/content/v1/5b36e7e0c3c16a47b4a61889/1563927902083-XCHHPJTUHKM05J058F7T/unnamed.jpg\",\n        \"contentUrl\": \"https://images.squarespace-cdn.com/content/v1/5b36e7e0c3c16a47b4a61889/1563927902083-XCHHPJTUHKM05J058F7T/unnamed.jpg\",\n        \"caption\": \"Luxe Aura Hair Extensions\"\n      },\n      \"image\": {\n        \"@id\": \"https://luxeaurahair.com/#logo\"\n      },\n      \"description\": \"Luxe Aura Hair Extensions is a full-service hair salon in Greenwich Village, New York, specializing in premium human hair extensions, hair color, treatments, and non-surgical hair replacement.\",\n      \"telephone\": \"+1-212-221-3881\",\n      \"email\": \"help@luxeaurahair.com\",\n      \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"52 E 11th Street\",\n        \"addressLocality\": \"New York\",\n        \"addressRegion\": \"NY\",\n        \"postalCode\": \"10003\",\n        \"addressCountry\": \"US\"\n      },\n      \"contactPoint\": {\n        \"@type\": \"ContactPoint\",\n        \"telephone\": \"+1-212-221-3881\",\n        \"email\": \"help@luxeaurahair.com\",\n        \"contactType\": \"customer service\",\n        \"areaServed\": \"US\",\n        \"availableLanguage\": \"English\"\n      },\n      \"sameAs\": [\n        \"https://www.instagram.com/luxeaurahair\",\n        \"https://www.tiktok.com/@luxeaurahair\",\n        \"https://youtube.com/@luxeaurahairproducts1455\",\n        \"https://www.facebook.com/share/1Cc8yrJm99/\"\n      ]\n    },\n    {\n      \"@type\": \"WebSite\",\n      \"@id\": \"https://luxeaurahair.com/#website\",\n      \"url\": \"https://luxeaurahair.com/\",\n      \"name\": \"Luxe Aura Hair Extensions\",\n      \"alternateName\": \"Luxe Aura Hair\",\n      \"publisher\": {\n        \"@id\": \"https://luxeaurahair.com/#organization\"\n      }\n    },\n    {\n      \"@type\": [\n        \"LocalBusiness\",\n        \"HairSalon\",\n        \"BeautySalon\"\n      ],\n      \"@id\": \"https://luxeaurahair.com/#localbusiness\",\n      \"name\": \"Luxe Aura Hair Extensions\",\n      \"alternateName\": \"Luxe Aura Hair\",\n      \"url\": \"https://luxeaurahair.com/\",\n      \"logo\": {\n        \"@id\": \"https://luxeaurahair.com/#logo\"\n      },\n      \"image\": {\n        \"@id\": \"https://luxeaurahair.com/#logo\"\n      },\n      \"description\": \"Luxe Aura Hair Extensions is a Greenwich Village hair salon offering professional hair extensions, hair color, treatments, hair loss solutions, and non-surgical hair replacement.\",\n      \"telephone\": \"+1-212-221-3881\",\n      \"email\": \"help@luxeaurahair.com\",\n      \"priceRange\": \"$$$\",\n      \"currenciesAccepted\": \"USD\",\n      \"paymentAccepted\": \"Cash, Credit Card\",\n      \"parentOrganization\": {\n        \"@id\": \"https://luxeaurahair.com/#organization\"\n      },\n      \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"52 E 11th Street\",\n        \"addressLocality\": \"New York\",\n        \"addressRegion\": \"NY\",\n        \"postalCode\": \"10003\",\n        \"addressCountry\": \"US\"\n      },\n      \"areaServed\": [\n        {\n          \"@type\": \"City\",\n          \"name\": \"New York City\"\n        },\n        {\n          \"@type\": \"AdministrativeArea\",\n          \"name\": \"Manhattan\"\n        },\n        {\n          \"@type\": \"Place\",\n          \"name\": \"Greenwich Village\"\n        }\n      ],\n      \"hasMap\": \"https://www.google.com/maps/search/?api=1&query=52+E+11th+Street+New+York+NY+10003\",\n      \"openingHoursSpecification\": [\n        {\n          \"@type\": \"OpeningHoursSpecification\",\n          \"dayOfWeek\": \"https://schema.org/Tuesday\",\n          \"opens\": \"10:30\",\n          \"closes\": \"19:00\"\n        },\n        {\n          \"@type\": \"OpeningHoursSpecification\",\n          \"dayOfWeek\": \"https://schema.org/Wednesday\",\n          \"opens\": \"10:30\",\n          \"closes\": \"19:00\"\n        },\n        {\n          \"@type\": \"OpeningHoursSpecification\",\n          \"dayOfWeek\": \"https://schema.org/Thursday\",\n          \"opens\": \"10:30\",\n          \"closes\": \"19:00\"\n        },\n        {\n          \"@type\": \"OpeningHoursSpecification\",\n          \"dayOfWeek\": \"https://schema.org/Friday\",\n          \"opens\": \"10:30\",\n          \"closes\": \"19:00\"\n        },\n        {\n          \"@type\": \"OpeningHoursSpecification\",\n          \"dayOfWeek\": \"https://schema.org/Saturday\",\n          \"opens\": \"10:30\",\n          \"closes\": \"20:00\"\n        }\n      ],\n      \"sameAs\": [\n        \"https://www.instagram.com/luxeaurahair\",\n        \"https://www.tiktok.com/@luxeaurahair\",\n        \"https://youtube.com/@luxeaurahairproducts1455\",\n        \"https://www.facebook.com/share/1Cc8yrJm99/\"\n      ],\n      \"makesOffer\": [\n        {\n          \"@type\": \"Offer\",\n          \"itemOffered\": {\n            \"@type\": \"Service\",\n            \"name\": \"Microlink Hair Extensions\"\n          }\n        },\n        {\n          \"@type\": \"Offer\",\n          \"itemOffered\": {\n            \"@type\": \"Service\",\n            \"name\": \"K-Tip Keratin Bond Extensions\"\n          }\n        },\n        {\n          \"@type\": \"Offer\",\n          \"itemOffered\": {\n            \"@type\": \"Service\",\n            \"name\": \"Tape-In Hair Extensions\"\n          }\n        },\n        {\n          \"@type\": \"Offer\",\n          \"itemOffered\": {\n            \"@type\": \"Service\",\n            \"name\": \"Natural Beaded Row Extensions\"\n          }\n        },\n        {\n          \"@type\": \"Offer\",\n          \"itemOffered\": {\n            \"@type\": \"Service\",\n            \"name\": \"Brazilian Knots Hair Extensions\"\n          }\n        },\n        {\n          \"@type\": \"Offer\",\n          \"itemOffered\": {\n            \"@type\": \"Service\",\n            \"name\": \"Traditional Sew-In Weaves\"\n          }\n        },\n        {\n          \"@type\": \"Offer\",\n          \"itemOffered\": {\n            \"@type\": \"Service\",\n            \"name\": \"Hair Extensions for Thinning Hair and Hair Loss\"\n          }\n        },\n        {\n          \"@type\": \"Offer\",\n          \"itemOffered\": {\n            \"@type\": \"Service\",\n            \"name\": \"Post-Chemotherapy Hair Extensions\"\n          }\n        },\n        {\n          \"@type\": \"Offer\",\n          \"itemOffered\": {\n            \"@type\": \"Service\",\n            \"name\": \"Non-Surgical Hair Replacement for Men\"\n          }\n        },\n        {\n          \"@type\": \"Offer\",\n          \"itemOffered\": {\n            \"@type\": \"Service\",\n            \"name\": \"Hair Color and Hair Treatments\"\n          }\n        }\n      ]\n    }\n  ]\n}"
+ ],
+ "bodyClass": "tweak-site-width-option-full-background tweak-icon-weight-hairline  tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal ancillary-header-top-center-layout-horizontal ancillary-header-top-right-layout-horizontal ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-horizontal ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-top-left ancillary-header-tagline-position-top-left ancillary-header-primary-nav-position-top-left ancillary-header-secondary-nav-position-top-right ancillary-header-social-position-hide ancillary-header-search-position-hide ancillary-header-cart-position-hide ancillary-header-account-position-hide tweak-header-primary-nav-hover-style-active tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-square tweak-header-secondary-nav-inherit-styles tweak-header-secondary-nav-hover-style-spotlight tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-square tweak-header-search-style-underlined tweak-header-search-placeholder-show tweak-header-cart-style-text tweak-header-account-style-text tweak-overlay-parallax-enabled tweak-overlay-parallax-new-math tweak-index-nav-style-none tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-none tweak-index-page-scroll-indicator-icon-only tweak-index-page-scroll-indicator-icon-arrow tweak-index-page-scroll-indicator-icon-weight-hairline tweak-index-gallery-layout-slideshow tweak-index-gallery-spacing-sides-show tweak-index-gallery-spacing-top-bottom-show tweak-index-gallery-apply-bottom-spacing tweak-index-gallery-hover-style-fade tweak-index-gallery-controls-small-arrows tweak-index-gallery-controls-icon-weight-hairline tweak-index-gallery-indicators-dots tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-bottom-center tweak-index-gallery-content-text-alignment-center tweak-footer-show tweak-footer-layout-columns tweak-footer-layout-columns-auto tweak-footer-stacked-alignment-center tweak-footer-business-info-show tweak-footer-business-hours-show tweak-mobile-bar-top-fixed ancillary-mobile-bar-branding-position-top-left ancillary-mobile-bar-menu-icon-position-top-right tweak-mobile-bar-menu-icon-hamburger ancillary-mobile-bar-search-icon-position-top-right ancillary-mobile-bar-cart-position-hide tweak-mobile-bar-cart-style-text ancillary-mobile-bar-account-position-hide tweak-mobile-bar-account-style-text tweak-mobile-overlay-slide-origin-left tweak-mobile-overlay-close-show tweak-mobile-overlay-menu-primary-button-style-solid tweak-mobile-overlay-menu-primary-button-shape-square tweak-mobile-overlay-menu-secondary-inherit tweak-mobile-overlay-menu-secondary-button-style-solid tweak-mobile-overlay-menu-secondary-button-shape-square tweak-quote-block-alignment-center tweak-social-icons-style-solid tweak-social-icons-shape-square tweak-blog-meta-primary-author tweak-blog-meta-secondary-date tweak-blog-list-style-grid tweak-blog-list-separator-show tweak-blog-list-alignment-center tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-43-four-three tweak-blog-list-item-image-aspect-ratio-stacked-11-square tweak-blog-list-item-title-show tweak-blog-list-item-excerpt-show tweak-blog-list-item-body-show tweak-blog-list-item-readmore-inline tweak-blog-list-item-meta-position-above-title tweak-blog-list-pagination-link-label-show tweak-blog-list-pagination-link-icon-show tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-center tweak-blog-item-meta-position-above-title tweak-blog-item-share-position-below-content tweak-blog-item-pagination-link-label-show tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-category tweak-blog-item-pagination-link-icon-weight-light event-thumbnails event-thumbnail-size-32-standard event-date-label event-list-show-cats event-list-date event-list-time event-list-address event-excerpts event-item-back-link gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-169-widescreen gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop gallery-autoplay tweak-product-list-image-aspect-ratio-11-square tweak-product-list-item-hover-behavior-fade tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-bottom-center tweak-product-list-show-title tweak-product-list-show-price tweak-product-list-filter-display-hide tweak-product-list-filter-alignment-left tweak-product-item-nav-show-breadcrumb-and-pagination tweak-product-item-nav-pagination-style-previousnext tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-left tweak-product-item-gallery-design-slideshow tweak-product-item-gallery-aspect-ratio-11-square tweak-product-item-gallery-thumbnail-alignment-center tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-square tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-outline tweak-product-item-details-add-to-cart-button-shape-square tweak-product-item-details-add-to-cart-button-padding-medium tweak-product-item-image-zoom-enabled tweak-product-item-image-zoom-behavior-click tweak-product-item-lightbox-enabled tweak-related-products-image-aspect-ratio-11-square tweak-related-products-meta-alignment-under-center tweak-product-badge-style-none tweak-product-badge-position-top-right tweak-product-badge-inset-floating newsletter-style-custom hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-outline large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-center button-style-solid button-corner-style-square tweak-product-quick-view-button-style-docked tweak-product-quick-view-button-position-top tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show tweak-share-buttons-standard-icon-color tweak-share-buttons-standard-background-color native-currency-code-usd collection-type-page collection-5da192e7f30aa07809434756 collection-layout-default mobile-style-available sqs-has-custom-cart has-logo-image has-social has-cart enable-load-effects has-primary-nav has-footer-nav has-user-accounts",
+ "sections": [
+  {
+   "id": "content",
+   "bg": null,
+   "items": [
+    {
+     "type": "html",
+     "html": "<h2><strong>SHOP HAIR EXTENSIONS</strong></h2>"
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "items": [
+        {
+         "type": "image",
+         "src": "https://images.squarespace-cdn.com/content/v1/5b36e7e0c3c16a47b4a61889/5d78fab4-493c-43fe-bdaf-1f44c3d580c1/LUXE+TAPE+IN+EXTENSIONS.webp",
+         "alt": "LUXE TAPE IN EXTENSIONS",
+         "title": "",
+         "caption": ""
+        },
+        {
+         "type": "button",
+         "text": "LUXE TAPE IN EXTENSIONS",
+         "href": "https://luxeaurahair.store/collections/lux-aura-tape-in-hair-extensions"
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "items": [
+        {
+         "type": "image",
+         "src": "https://images.squarespace-cdn.com/content/v1/5b36e7e0c3c16a47b4a61889/4cf19f7c-89eb-4c2d-8134-9bbb5304c36c/LUXE+WEFT+BUNDLES.webp",
+         "alt": "LUXE WEFT BUNDLES",
+         "title": "",
+         "caption": ""
+        },
+        {
+         "type": "button",
+         "text": "LUXE WEFT BUNDLES",
+         "href": "https://luxeaurahair.store/collections/lux-aura-weft-bundles"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "items": [
+        {
+         "type": "image",
+         "src": "https://images.squarespace-cdn.com/content/v1/5b36e7e0c3c16a47b4a61889/1570905516211-2BCLC9Z3C613UBMH9WO4/shutterstock_1307360110_1200x.jpg",
+         "alt": "Luxe Aura keratin tip (K-Tip) human hair extensions",
+         "title": "",
+         "caption": ""
+        },
+        {
+         "type": "button",
+         "text": "LUXE KERATIN TIP EXTENSIONS",
+         "href": "https://luxeaurahair.store/collections/lux-aura-keratin-hair-extensions"
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "items": [
+        {
+         "type": "image",
+         "src": "https://images.squarespace-cdn.com/content/v1/5b36e7e0c3c16a47b4a61889/1570905545357-6YHTRFH9XH5KPOAI52Y9/shutterstock_1276035412_1200x.jpg",
+         "alt": "Luxe Aura I-Tip human hair extensions",
+         "title": "",
+         "caption": ""
+        },
+        {
+         "type": "button",
+         "text": "LUXE I-TIP EXTENSIONS",
+         "href": "https://luxeaurahair.store/collections/lux-aura-u-tip-hair-extensions"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "html",
+     "html": "<h2><strong>Frequently Asked Questions</strong></h2>"
+    },
+    {
+     "type": "accordion",
+     "items": [
+      {
+       "title": "What hair extension methods does Luxe Aura Hair offer and how do I know which one is right for me?",
+       "html": "<p>We offer six professional hair extension methods, Microlink extensions, K-Tip keratin bond extensions, Tape-In extensions, Natural Beaded Rows, Brazilian Knots, and traditional sew-in weaves. Each method is suited to different hair types, lifestyles, and goals. Microlinks are ideal for fine or fragile hair because they involve no heat or adhesive. K-Tip extensions work beautifully for almost any hair type and deliver the most natural individual movement. Tape-ins offer the fastest application and a completely flat, seamless finish. Natural Beaded Rows are the go-to for maximum volume and fullness. Brazilian Knots are exceptionally durable and work across all textures including curly and natural hair. The best way to know which method is right for you specifically is to come in for a free consultation, our specialists assess your hair in person and give you a clear, honest recommendation based on your hair's density, condition, and the result you want to achieve.</p><p><br></p>"
+      },
+      {
+       "title": "What makes Luxe Aura Hair different from other extension salons in NYC?",
+       "html": "<p>Every extension we install uses 100% human Slavic hair, ethically sourced from Central, Eastern, and Southeastern Europe, widely considered the finest hair in the world for extension purposes. Slavic hair is naturally fine in strand diameter, which allows it to blend seamlessly with most hair types, and its cuticle is fully intact and aligned in a single direction, which means it does not tangle, does not lose its shine rapidly, and maintains its quality across multiple application cycles. We carry over 80 colours in stock at all times, which means there is never a wait for your hair to be ordered and same-day installations are available every single day. The combination of premium sourcing, expert application, and genuine colour-matching expertise is what separates a Luxe Aura Hair result from what most salons in the city can deliver.</p><p><br></p>"
+      },
+      {
+       "title": "Do you offer hair extensions for people with hair loss, thinning hair, or those recovering from chemotherapy?",
+       "html": "<p>Yes, and it is one of the most important parts of what we do. We specialise in hair extensions for clients experiencing hair loss from a wide range of causes including chemotherapy, alopecia, postpartum shedding, hormonal thinning, and damage from years of chemical or heat styling. For post-chemo clients, we regularly work with as little as three to four inches of regrowth and use the gentlest available methods to restore length, volume, and confidence. For clients with fine or thinning hair, we select lightweight, low-tension methods that add density without stressing fragile strands. Every hair loss consultation at Luxe Aura Hair is free, private, completely unhurried, and approached with the sensitivity and expertise these appointments deserve.</p><p><br></p>"
+      },
+      {
+       "title": "Is Luxe Aura Hair welcoming to transgender and non-binary clients?",
+       "html": "<p>Completely and without qualification. Our team includes members of the LGBT community, and our welcome to transgender, non-binary, gender non-conforming, and crossdressing clients is genuine and built on real experience rather than surface-level inclusivity. We understand the specific hair challenges that MTF transgender women often face — including male hairline patterns, hormonal changes affecting hair density and texture, and the need for a result that is both natural-looking and versatile enough for different environments. Our semi-private studio means your appointment is private and unhurried, you will be referred to correctly throughout, and every member of our team approaches these appointments with the care and professionalism they deserve. Many of our transgender clients found us through word of mouth within the community, which is the most honest endorsement we could ask for.</p><p><br></p>"
+      },
+      {
+       "title": "Do you offer hair services beyond extensions, and can I get everything done in one visit?",
+       "html": "<p>Yes, Luxe Aura Hair is a full-service salon. Beyond our six extension methods, we offer a complete professional colour and treatment menu including Balayage, full and partial highlights, full head colour, single process colour, Keratin treatments, Brazilian Blowouts, Olaplex treatments, toner, relaxers, and grey coverage. Many clients combine services in a single visit, for example, having extensions installed and a Balayage or toning service done in the same appointment to create a completely unified, dimensional colour result from root to tip. Same-day service is available every day, so if your schedule demands efficiency, we are built for it.</p><p><br></p>"
+      },
+      {
+       "title": "Do you offer hair replacement services for men, and how does the non-surgical system work?",
+       "html": "<p>Yes. We offer non-surgical hair replacement systems specifically designed for men experiencing thinning or hair loss at any stage, from mild thinning to more significant loss. The system is a lightweight unit made from 100% real virgin human hair attached to a skin-like base that mimics the appearance of your natural scalp. It is placed directly over the hair loss area, custom-fitted to your head shape, and styled to blend seamlessly with your existing hair. The result is completely undetectable by sight or touch, can be washed and styled exactly like your own hair, and requires a simple retightening appointment every six to eight weeks. There is no surgery, no recovery period, and no permanent commitment. Same-day consultations are available, and the system can be ready either the same day or within one week depending on your specific requirements.</p><p><br></p>"
+      },
+      {
+       "title": "Where is Luxe Aura Hair located, how do I book, and how do consultations work?",
+       "html": "<p>We are located in Greenwich Village, Manhattan, one of New York City's most accessible and vibrant neighbourhoods, easy to reach from most parts of the city. Yes, every consultation comes with absolutely no obligation to book a service afterward. It is simply a conversation, our specialist examines your hair, listens to your goals, walks you through every relevant option, and gives you a clear, transparent quote for whatever you decide you want to pursue. Same-day installations are available every day for clients who are ready to proceed. You can book your consultation online at <a href=\"https://luxeaurahair.com/book-now\">luxeaurahair.com/book-now</a> or call us directly at (212) 221-3881. We look forward to meeting you.</p><p><br></p>"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "kind": "page"
+}

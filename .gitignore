@@ -1,0 +1,5 @@
+node_modules/
+.claude/
+_build/cache/
+.DS_Store
+Thumbs.db
